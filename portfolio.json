@@ -1,0 +1,11 @@
+{
+  "owner": "기원",
+  "headline": "AI와 함께 만든 데이터 도구",
+  "intro": "매주 하나씩 만들어 올립니다. 도구마다 제가 내린 판단이 하나씩 들어 있습니다.",
+  "cards": [
+    {"week": 1, "title": "감 테스트", "line": "AI 입문 사례",
+     "judgment": "AI 활용법에서 배포까지",
+     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-dusky-mu.vercel.app/", "img": "img/w1.jpg"}
+  ],
+  "proposal": null
+}
