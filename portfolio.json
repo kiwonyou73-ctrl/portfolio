@@ -8,7 +8,7 @@
      "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-dusky-mu.vercel.app/", "img": "img/w1.jpg"},
     {"week": 2, "title": "빈 폴더에서 사내 IT 요청 분류기 만들기", "line": "IT 요청 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
      "judgment": "LLM 모델을 통해 규칙으로 놓치는 부분까지 확인했다. 규칙에서는 보안을 3건 놓침",
-     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-rose.vercel.app/", "img": ""}
+     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-rose.vercel.app/", "img": "img/w2.png"}
   ],
   "proposal": null
 }
