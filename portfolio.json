@@ -8,7 +8,10 @@
      "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-dusky-mu.vercel.app/", "img": "img/w1.jpg"},
     {"week": 2, "title": "빈 폴더에서 사내 IT 요청 분류기 만들기", "line": "IT 요청 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
      "judgment": "LLM 모델을 통해 규칙으로 놓치는 부분까지 확인했다. 규칙에서는 보안을 3건 놓침",
-     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-rose.vercel.app/", "img": "img/w2.png"}
+     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-rose.vercel.app/", "img": "img/w2.png"},
+    {"week": 3, "title": "엑셀 정리기", "line": "엑셀이 모든 데이터를 깔끔하게 정리합니다",
+     "judgment": "내가 다시 정한 것: 상담시간의 숫자를 분으로 변환하는 기준,  이 정리기가 놓치는 것: 같은 접수번호의 이전 처리상태 줄",
+     "ai": ["Claude Code", "Google Colab"], "url": "https://cleaner-delta-gules.vercel.app/", "img": ""}
   ],
   "proposal": null
 }
