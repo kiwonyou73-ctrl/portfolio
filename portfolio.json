@@ -11,7 +11,7 @@
      "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-rose.vercel.app/", "img": "img/w2.png"},
     {"week": 3, "title": "출장비 정산 정리기", "line": "출장비 엑셀을 끌어다 놓으면 내 처방대로 정리본과 바꾼 기록이 나옵니다. 파일은 브라우저를 떠나지 않습니다",
      "judgment": "빈칸은 그대로 표시했다.",
-     "ai": ["Claude Code"], "url": "https://my-cleaner-alpha.vercel.app/", "img": ""}
+     "ai": ["Claude Code"], "url": "https://my-cleaner-alpha.vercel.app/", "img": "img/w3.png"}
   ],
   "proposal": null
 }
