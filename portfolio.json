@@ -12,9 +12,9 @@
     {"week": 3, "title": "출장비 정산 정리기", "line": "출장비 엑셀을 끌어다 놓으면 내 처방대로 정리본과 바꾼 기록이 나옵니다. 파일은 브라우저를 떠나지 않습니다",
      "judgment": "빈칸은 그대로 표시했다.",
      "ai": ["Claude Code"], "url": "https://my-cleaner-alpha.vercel.app/", "img": "img/w3.png"},
-    {"week": 4, "title": "월간 보고 SQL 앱", "line": "매달 추출한 엑셀을 넣으면 정해 둔 질문의 답이 SQL과 함께 나옵니다",
-     "judgment": "재문의는 비율(해지 36.0%)과 건수(요금 2,053건)를 같이 보기로 정했다",
-     "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"], "url": "https://sql-window-ochre.vercel.app/", "img": ""}
+    {"week": 4, "title": "월간 보고 SQL 앱", "line": "마케팅 채널, 비용, 매출 등의 질문과 답을 볼수 있는 SQL이 나옵니다",
+     "judgment": "쿠폰 사용, 매출액, 연령대를 같이 보기로 했다",
+     "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"], "url": "https://my-marketing-sql-app-utgf.vercel.app/", "img": "img/w4.png"}
   ],
   "proposal": null
 }
