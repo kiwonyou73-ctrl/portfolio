@@ -14,7 +14,10 @@
      "ai": ["Claude Code"], "url": "https://my-cleaner-alpha.vercel.app/", "img": "img/w3.png"},
     {"week": 4, "title": "월간 보고 SQL 앱", "line": "마케팅 채널, 비용, 매출 등의 질문과 답을 볼수 있는 SQL이 나옵니다",
      "judgment": "쿠폰 사용, 매출액, 연령대를 같이 보기로 했다",
-     "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"], "url": "https://my-marketing-sql-app-utgf.vercel.app/", "img": "img/w4.png"}
+     "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"], "url": "https://my-marketing-sql-app-utgf.vercel.app/", "img": "img/w4.png"},
+    {"week": 5, "title": "지표 사전", "line": "지표마다 정의서 한 장이 있고, 카드와 대시보드는 정의서대로만 값을 계산합니다",
+     "judgment": "",
+     "ai": ["Claude Code (MCP)"], "url": "https://metric-dictionary-lake.vercel.app/", "img": "img/w5.png"}
   ],
   "proposal": null
 }
